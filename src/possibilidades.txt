@@ -1,0 +1,9 @@
+00 pedra pedra
+01 pedra papel
+02 pedra tesoura
+10 papel pedra
+11 papel papel
+12 papel tesoura
+20 tesoura pedra
+21 tesoura papel
+22 tesoura tesoura
