@@ -1,4 +1,4 @@
 # jokenpo
 
-<img align="center" alt="Jogo-jokenpo" src="https://discordapp.com/channels/874987121587388466/874987121587388471/875337014852087868">
+<img align="center" alt="Jogo-jokenpo" src="https://cdn.discordapp.com/attachments/874987121587388471/875337014424260608/jokenpo.gif">
 
